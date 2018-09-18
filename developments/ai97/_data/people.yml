@@ -1,0 +1,16 @@
+instructor:
+  name: Mohammad Taher Pilehvar
+  profile_pic: /_images/pp/inst.jpg
+
+teaching_assistants:
+  - name: Amirhosein Kazemnejad
+    profile_pic: /_images/pp/ta01.jpg
+
+  - name: Soroush Gholami
+    profile_pic: /_images/pp/ta02.jpg
+  
+  - name: Mostafa MohammadAli Ebrahim
+    profile_pic: /_images/pp/ta03.jpg
+  
+  - name: Kiarash Aghakasiri
+    profile_pic: /_images/pp/ta04.jpg

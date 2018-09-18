@@ -1,0 +1,45 @@
+# Site settings
+title: Iran University of Science and Technology
+course_name: Introduction to Artificial Intelligence (1397)
+course_description: "This course introduces students to the basic knowledge representation, problem solving, and learning methods of artificial intelligence.  you will learn the foundational principles that drive AI applications and practice implementing some of these systems."
+description: |
+    Instructor: Mohammad Taher Pilehvar
+
+message: Register to our Google <a href="https://groups.google.com/forum/#!forum/ai97">groups page</a> to get course notifications via email.
+baseurl: "/ai97" # the subpath of your site, e.g. /blog/
+url: "http://iust-courses.github.io/" # the base hostname & protocol for your site
+#syllabus: "https://github.com/svmiller/svm-r-markdown-templates/blob/master/svm-rmarkdown-syllabus-example.pdf"
+githubdir: "iust-courses/github.iust-courses.io"
+
+# Author/user information
+email: pilehvar@iust.ac.ir
+#twitter_username: 
+github_username:  pilehvar
+authorurl: "http://pilevar.com/taher/"
+address: |
+    School of Computer Engineering
+    Iran University of Science and Technology
+    Tehran, Iran
+
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+collections:
+    events:
+        output: true
+    assignments:
+        output: true
+    lectures:
+        output: ture
+    announcements:
+
+plugins:
+    - jekyll-jalali
