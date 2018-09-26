@@ -32,14 +32,26 @@ excerpt_separator: "<!--more-->"
 include: ['_images', '_css']
 exclude: ['develop']
 
+future: true
 collections:
     events:
         output: true
+    lectures:
+        output: true
     assignments:
         output: true
-    lectures:
-        output: ture
     announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
+
+
 
 plugins:
     - jekyll-jalali

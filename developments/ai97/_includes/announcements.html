@@ -21,7 +21,7 @@
                     [<a href="{{ n.slides | prepend: site.baseurl  }}">slides</a>]
                     {% endif %}
                 {% elsif n.type == 'assignment' %}
-                    New Assignment released: [<a href="{{ n.url }}">{{ n.title }}</a>]
+                    New Assignment released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
                 {% else%}
                     {{ n.description }}
                 {% endif %}
