@@ -14,12 +14,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Iran University of Science and Technology: Introduction to Artificial Intelligence (1397)</title>
-  <meta name="description" content="Instructor: Mohammad Taher Pilehvar
-">
+  <title>Introduction to Artificial Intelligence (1397): Assignment #1 - Search problems</title>
+  <meta name="description" content="In this assignment we will familiarize you with basic concepts of search problems.Due dates:We have two deadlines for this assignment.  Group #1: 1397/07/18 ...">
   
   <link rel="stylesheet" href="/ai97/_css/main.css">
-  <link rel="canonical" href="http://iust-courses.github.io//ai97/">
+  <link rel="canonical" href="http://iust-courses.github.io//ai97/assignments/01_search_problems">
   <link rel="alternate" type="application/rss+xml" title="Iran University of Science and Technology" href="http://iust-courses.github.io//ai97/feed.xml" />
 <link rel='stylesheet' id='open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.2.4' type='text/css' media='all' />
 <link href='https://fonts.googleapis.com/css?family=Titillium+Web:600italic,600,400,400italic' rel='stylesheet' type='text/css'>
@@ -75,97 +74,70 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="home">
+        <div class="post">
 
-    <h1>Introduction to Artificial Intelligence (1397)</h1>
+  <header class="post-header">
+    <h1 class="post-title">Assignment #1 - Search problems</h1>
+    <p class="post-meta">Released on Wednesday 1397/7/4</p>
+  </header>
 
-    <div class="announcement-box" style="margin-top:30px">
-        <h2>Announcements</h2>
-            
+  <div>
     
+    <p style="font-weight: bold">Download
+      
+      [<a href="/ai97/static_files/assignments/assignment01.pdf">problems</a>]
+      
+      
+      [<a href="/ai97/static_files/assignments/assignment01.zip">attachment</a>]
+      
+      
+    </p>
 
+    <div style="color: gray;">
+      <h3>Late Policy</h3>
+      <ul>
     
+    <li>You have free 8 late days.</li>
     
-
+    <li>You can use late days for assignments. A late day extends the deadline 24 hours.</li>
     
+    <li>Once you have used all 8 late days, the penalty is 10% for each additional late day.</li>
     
-
-    <ul>
-        
-        <li class="no-p-margin">
-            
-                
-                    New Assignment released: [<a href="/ai97/assignments/01_search_problems">Assignment #1 - Search problems</a>]
-                
-            
-        </li>
-        
-        <li class="no-p-margin">
-            
-                
-                    New Lecture is up: Introduction to Search
-                    
-                    [<a href="/ai97/static_files/presentations/2-Search-Fa.pdf">slides</a>]
-                    
-                
-            
-        </li>
-        
-        <li class="no-p-margin">
-            
-                
-                    New Lecture is up: Introduction to Artificial Intelligence
-                    
-                    [<a href="/ai97/static_files/presentations/1-Introduction-Fa.pdf">slides</a>]
-                    
-                
-            
-        </li>
-        
-    </ul>
+</ul>
     </div>
-    <br />
-    <h2>Course Description</h2>
-    <p>This course introduces students to the basic knowledge representation, problem solving, and learning methods of artificial intelligence.  you will learn the foundational principles that drive AI applications and practice implementing some of these systems.</p>
-    <p>Register to our Google <a href="https://groups.google.com/forum/#!forum/ai97">groups page</a> to get course notifications via email.</p>
+  </div>
 
-    <br>
-    <div>
-        <div style="width:30%; float: left">
-            <h2>Course instructor</h2>
-            <div class="image--cover-container">
-                <img src="/ai97/_images/pp/inst.jpg" class="image--cover">
-                <p>Mohammad Taher Pilehvar</p>
-            </div>
-        </div>
+  <br />
+  <article class="post-content">
+    <p>In this assignment we will familiarize you with basic concepts of search problems.</p>
 
-        <div style="width:70%; float: left">
-            <div class="profile-pic-gallary ">
-                <h2>Teaching Assistants</h2>
-                
-                <div class="image--cover-container">
-                    <img src="/ai97/_images/pp/ta01.jpg" class="image--cover">
-                    <p>Amirhosein Kazemnejad</p>
-                </div>
-                
-                <div class="image--cover-container">
-                    <img src="/ai97/_images/pp/ta02.jpg" class="image--cover">
-                    <p>Soroush Gholami</p>
-                </div>
-                
-                <div class="image--cover-container">
-                    <img src="/ai97/_images/pp/ta03.jpg" class="image--cover">
-                    <p>Mostafa MohammadAli Ebrahim</p>
-                </div>
-                
-                <div class="image--cover-container">
-                    <img src="/ai97/_images/pp/ta04.jpg" class="image--cover">
-                    <p>Kiarash Aghakasiri</p>
-                </div>
-                
-            </div>
-        </div>
-    </div>
+<h1 id="due-dates">Due dates:</h1>
+<p>We have two deadlines for this assignment.</p>
+<ul>
+  <li><strong>Group #1</strong>: 1397/07/18 23:59</li>
+  <li><strong>Group #2</strong>: 1397/07/25 23:59</li>
+</ul>
+
+<h1 id="setup">Setup</h1>
+<p>Note: This assignment is using Python 2.7, please make sure you have it installed on your system. This assignment also need python Tkinter package, it is included in every python installation by default. however if you get error on Tkinter installation try this:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install python-tk
+</code></pre></div></div>
+<p>Follow the pdf document for the rest of the assignment.</p>
+
+<h1 id="submission">Submission</h1>
+<p>After you’re ready to submit your work, Please follow these steps:</p>
+<ol>
+  <li>Make sure your current directory is assignment folder. run the following command (put your Student ID in &lt;student_id&gt;. e.x: 95529876)
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python make_submission.py &lt;student_id&gt;
+</code></pre></div>    </div>
+  </li>
+  <li>Grab <code class="highlighter-rouge">asg01_&lt;student_id&gt;.zip</code>, Compose an email to <code class="highlighter-rouge">iust.ai1397+asg01 [at] gmail.com</code>, Put the zip file in attachments and Use <code class="highlighter-rouge">assignment_01</code> as title.</li>
+</ol>
+
+<p>If you don’t follow the protocol, Unfortunately we are not able to get your submission thus you will NOT earn any scores.</p>
+
+  </article>
+
 </div>
       </div>
     </div>
