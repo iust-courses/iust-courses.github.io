@@ -7,6 +7,9 @@ attachment: /static_files/assignments/assignment01.zip
 ---
 In this assignment we will familiarize you with basic concepts of search problems.
 
+# Updates:
+- 1397/0711: No changes to problems, Just a minor update in Q4's maps.
+
 # Due dates:
 We have two deadlines for this assignment. 
 - **Group #1**: 1397/07/18 23:59
