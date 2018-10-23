@@ -12,10 +12,10 @@ url: "http://iust-courses.github.io/" # the base hostname & protocol for your si
 githubdir: "iust-courses/github.iust-courses.io"
 
 # Author/user information
-email: pilehvar@iust.ac.ir
-#twitter_username: 
+email: my-last-name@iust.ac.ir
+twitter_username: tpilehvar 
 github_username:  pilehvar
-authorurl: "http://pilevar.com/taher/"
+authorurl: "http://webpages.iust.ac.ir/pilehvar/"
 address: |
     School of Computer Engineering
     Iran University of Science and Technology
