@@ -8,6 +8,9 @@ due: 2018-11-08T23:59:00+3:30
 ---
 In this assignment you will experiment with simple game agents and also the Minimax algorithm
 
+# Updates:
+- 1397/08/11: Fix a little typo.
+
 # Setup
 Note: This assignment is using Python 2.7, please make sure you have it installed on your system. This assignment also need python Tkinter package, it is included in every python installation by default. however if you get error on Tkinter installation try this:
 ```
