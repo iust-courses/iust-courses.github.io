@@ -4,7 +4,7 @@ date: 2018-11-1T9:00:00+4:30
 title: 'Assignment #3 - Adversarial Search'
 pdf: /static_files/assignments/assignment03.pdf
 attachment: /static_files/assignments/assignment03.zip
-due: 2018-11-08T23:59:00+3:30
+due: 2018-11-13T23:59:00+3:30
 ---
 In this assignment you will experiment with simple game agents and also the Minimax algorithm
 
