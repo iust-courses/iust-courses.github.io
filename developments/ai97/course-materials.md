@@ -19,6 +19,7 @@ Stuart Russell and Peter Norvig: Artificial Intelligence: A Modern Approach.
 * [Backtracking demo](https://iust-courses.github.io/ai97/static_files/presentations/backtracking_demo.zip) (jar, [src](http://ai.berkeley.edu/home.html))
 * [A step-by-step guide to building your intelligent chess program](https://medium.freecodecamp.org/simple-chess-ai-step-by-step-1d55a9266977) (Minimax and Alpha-Beta pruning, [code](https://jsfiddle.net/Laa0p1mh/3/))
 * [Installing Miniconda in silent mode](https://conda.io/docs/user-guide/install/index.html#installing-in-silent-mode) - Simple and easy to read installation guide for Miniconda.
+* [Google Colaboratory](https://colab.research.google.com) - A free Jupyter notebook environment for your deep learning exercises.
 * [Tutorial 1](https://iust-courses.github.io/ai97/static_files/mnist.ipynb) - Dive into deep learning! MNIST classification with MLP.
 * [Tutorial 2](https://iust-courses.github.io/ai97/static_files/imdb_mlp.ipynb) - Sentiment analysis on the IMDB movie review dataset.
 * [Tutorial 3](https://iust-courses.github.io/ai97/static_files/newswire_mlp.ipynb) - Text classification of newswire documents.
