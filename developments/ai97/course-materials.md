@@ -23,3 +23,4 @@ Stuart Russell and Peter Norvig: Artificial Intelligence: A Modern Approach.
 * [Tutorial 1](https://iust-courses.github.io/ai97/static_files/mnist.ipynb) - Dive into deep learning! MNIST classification with MLP.
 * [Tutorial 2](https://iust-courses.github.io/ai97/static_files/imdb_mlp.ipynb) - Sentiment analysis on the IMDB movie review dataset.
 * [Tutorial 3](https://iust-courses.github.io/ai97/static_files/newswire_mlp.ipynb) - Text classification of newswire documents.
+* [Tutorial 4](https://iust-courses.github.io/ai97/static_files/fsdd.ipynb) - Digit Recognition from sound
