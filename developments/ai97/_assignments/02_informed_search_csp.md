@@ -3,6 +3,7 @@ type: assignment
 date: 2018-10-13T9:00:00+4:30
 title: 'Assignment #2 - Informed Search & CSP'
 pdf: /static_files/assignments/assignment02.pdf
+solutions: /static_files/assignments/assignment02_solutions.pdf
 due: 2018-10-23T23:59:00+3:30
 ---
 In this assignment, you will learn about the concepts of informed search problem, CSPs and heuristics.

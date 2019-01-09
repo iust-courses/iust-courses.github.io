@@ -3,6 +3,7 @@ type: assignment
 date: 2018-11-18T9:00:00+4:30
 title: 'Assignment #4 - Markov Decision Process'
 pdf: /static_files/assignments/assignment04.pdf
+solutions: /static_files/assignments/assignment04_solutions.pdf
 due: 2018-11-25T23:59:00+3:30
 ---
 In this assignment, you'll solve MDPs and learn about fundamentals that power Markov Decision Process.
