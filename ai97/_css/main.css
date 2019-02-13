@@ -524,6 +524,47 @@ a.tosu {
   background-color: #fcf8e3;
   border-color: #faebcc; }
 
+.center-cropped {
+  width: 100px;
+  height: 60px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  border: 2px solid #0077CC;
+  border-radius: 5%;
+  margin-right: 10px; }
+
+/* Set the image to fill its parent and make transparent */
+.center-cropped img {
+  min-height: 100%;
+  min-width: 100%;
+  /* IE 8 */
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  /* IE 5-7 */
+  filter: alpha(opacity=0);
+  /* modern browsers */
+  opacity: 0; }
+
+.lecture-container {
+  display: flex;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px; }
+  .lecture-container .thumbnail {
+    width: 120px; }
+  .lecture-container .content {
+    flex: 1; }
+
+.previous-offerings {
+  list-style-type: none; }
+  .previous-offerings li {
+    display: inline-block;
+    margin-right: 10px; }
+  .previous-offerings li::before {
+    content: "● ";
+    color: black;
+    padding-right: 5px; }
+
 /* .site-nav {
     float: right;
     line-height: 40px;
