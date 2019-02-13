@@ -37,6 +37,10 @@ slides: /static_files/presentations/1-Introduction-Fa.pdf
 notes: /static_files/notes/notes_01.pdf
 
 # optional
+# please use /static_files/notes directory to store notes
+thumbnail: /static_files/path/to/image.jpg
+
+# optional
 tldr: "What is AI? How does it impact our lives? The current state of the art."
   
 # optional
