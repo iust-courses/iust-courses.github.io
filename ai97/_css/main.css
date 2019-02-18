@@ -527,17 +527,18 @@ a.tosu {
 .center-cropped {
   width: 100px;
   height: 60px;
-  background-position: center center;
   background-repeat: no-repeat;
   overflow: hidden;
   border: 2px solid #0077CC;
   border-radius: 5%;
-  margin-right: 10px; }
+  margin-right: 10px;
+  background-position: center;
+  background-size: contain; }
 
 /* Set the image to fill its parent and make transparent */
 .center-cropped img {
-  min-height: 100%;
-  min-width: 100%;
+  max-height: 100%;
+  max-width: 100%;
   /* IE 8 */
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   /* IE 5-7 */

@@ -2,7 +2,8 @@
 type: lecture
 date: 2018-12-23T8:00:00+4:30
 title: Getting Started with Neural Networks*
-slides: /static_files/presentations/11-Getting_Started_with_Neural_Networks.pdf
-notes: /static_files/presentations/11-files.zip
+slides: https://drive.google.com/open?id=1Q-zgIP-8yHy9VwmgOhsnBZjycfWcpsCm
+notes: https://drive.google.com/open?id=1qS_V_mOCrhT8XdolgqQd_ahb3NnEgDWA
 tldr: "Getting a taste of deep learning with three examples: sentiment analysis, text classification, and regression." 
+thumbnail: /static_files/thumbnails/Slide11.png
 ---

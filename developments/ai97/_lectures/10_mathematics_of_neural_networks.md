@@ -2,7 +2,8 @@
 type: lecture
 date: 2018-12-18T8:00:00+4:30
 title: Mathematics of Neural Networks*
-slides: /static_files/presentations/10-Mathematics_of_Neural_Networks.pdf
-notes: /static_files/presentations/10-files.zip
+slides: https://drive.google.com/open?id=1-4sy-UiM4_cxykNER0GW8Xvbn_hYcWIu
+notes: https://drive.google.com/open?id=1E9DIDBbfEVXLSmP1kYJsuuxErgTZt91E
 tldr: "What are building blocks of networks, i.e. tensors? How to train a network with gradient descent and backpropagation?" 
+thumbnail: /static_files/thumbnails/Slide10.png
 ---

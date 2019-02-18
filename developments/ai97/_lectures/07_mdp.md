@@ -2,7 +2,8 @@
 type: lecture
 date: 2018-11-14T8:00:00+4:30
 title: Markov Decision Processes
-slides: /static_files/presentations/7-MDPs-Fa.pdf
-notes: /static_files/presentations/7-files.zip
+slides: https://drive.google.com/open?id=1YGpcN_lsHKeZ_dH54iu4vlk3u4e9SvNE
+notes: https://drive.google.com/open?id=14PWo6n6WjXrJIDK95bp5b366FdogcvXz
 tldr: "How to find optimal policy in an MDP? You'll also learn about following algorithms: Value Iteration, Policy Evaluation, and Policy Iteration (all based on Bellman updated equations)."
+thumbnail: /static_files/thumbnails/Slide7.png
 ---

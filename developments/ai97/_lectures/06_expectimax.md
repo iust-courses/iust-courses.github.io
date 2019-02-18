@@ -2,7 +2,8 @@
 type: lecture
 date: 2018-10-28T8:00:00+4:30
 title: Game - Expectimax Search
-slides: /static_files/presentations/6-Expectimax_Search-Fa.pdf
-notes: /static_files/presentations/6-files.zip
+slides: https://drive.google.com/open?id=1Arq0wqHNP6YfzfGQKmhloyMsk6J6msPD
+notes: https://drive.google.com/open?id=1dIchh-xvZcJ2S8w4jQXqgXcT86f3iLwt
 tldr: "What if the game is not fully predictable? i.e., there is stochasticity in the process."
+thumbnail: /static_files/thumbnails/Slide6.png
 ---
