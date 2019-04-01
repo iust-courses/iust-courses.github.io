@@ -4,7 +4,7 @@ date: 2019-03-09T4:00:00+4:30
 title: 'Assignment #2 - Informed Search problems'
 pdf: /static_files/assignments/Assignment02.pdf
 attachment: /static_files/assignments/ASG2.zip
-due: 2019-03-27T23:59:00+3:30
+due: 2019-04-04T23:59:00+3:30
 ---
 In this assignment we will familiarize you with informed search problems.
 
