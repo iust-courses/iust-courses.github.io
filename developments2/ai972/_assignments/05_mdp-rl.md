@@ -4,6 +4,7 @@ date: 2019-05-25T9:00:00+4:30
 title: 'Assignment #5 - MDP and Reinfocement learning'
 pdf: /static_files/assignments/Assignment05.pdf
 attachment: /static_files/assignments/assignment05.zip
+solutions: /static_files/assignments/Assignment5-solutions.pdf
 due: 2019-06-03T23:59:00+3:30
 ---
 In this assignment you will experiment with simple RL agents.
