@@ -4,7 +4,7 @@ date: 2019-04-27T9:00:00+4:30
 title: 'Assignment #4 - Adversarial Search'
 pdf: /static_files/assignments/assignment04.pdf
 attachment: /static_files/assignments/assignment04.zip
-solutions: /static_files/assignments/Assignment4-solutions.pdf
+solutions: /static_files/assignments/Assignment04-solutions.pdf
 due: 2019-05-6T23:59:00+3:30
 ---
 In this assignment you will experiment with simple game agents and also the Minimax algorithm
