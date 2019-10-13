@@ -1,0 +1,20 @@
+I"H<p>In this assignment we will familiarize you with basic concepts of search problems.</p>
+
+<h1 id="setup">Setup</h1>
+<p>Note: This assignment is using Python 2.7, please make sure you have it installed on your system. This assignment also need python Tkinter package, it is included in every python installation by default. however if you get error on Tkinter installation try this:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install python-tk
+</code></pre></div></div>
+<p>Follow the pdf document for the rest of the assignment.</p>
+
+<h1 id="submission">Submission</h1>
+<p>After you’re ready to submit your work, Please follow these steps:</p>
+<ol>
+  <li>Make sure your current directory is assignment folder. run the following command (put your Student ID in &lt;student_id&gt;. e.x: 95529876)
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python make_submission.py &lt;student_id&gt;
+</code></pre></div>    </div>
+  </li>
+  <li>Grab <code class="highlighter-rouge">asg01_&lt;student_id&gt;.zip</code>, and upload it in Quera class for practical questions and scan other questions and upload it in Quera class..</li>
+</ol>
+
+<p>If you don’t follow the protocol, Unfortunately we are not able to get your submission thus you will NOT earn any scores.</p>
+:ET
