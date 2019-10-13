@@ -2,11 +2,11 @@
 title: Iran University of Science and Technology
 course_name: Introduction to Artificial Intelligence
 course_description: "This course introduces students to the basic knowledge representation, problem solving, and learning methods of artificial intelligence.  you will learn the foundational principles that drive AI applications and practice implementing some of these systems."
-course_semester: "Spring 1397-1398"
+course_semester: "Fall 1398-1399"
 description: |
     Instructor: Mohammad Taher Pilehvar
 
-message: Register to our Google <a href="https://groups.google.com/forum/#!forum/ai972">groups page</a> to get course notifications via email.
+message: Register to our Google <a href="https://groups.google.com/forum/#!forum/ai981">groups page</a> to get course notifications via email.
 baseurl: "/ai981" # the subpath of your site, e.g. /blog/
 url: "http://iust-courses.github.io/" # the base hostname & protocol for your site
 githubdir: "iust-courses/github.iust-courses.io"
