@@ -7,7 +7,7 @@ description: |
     Instructor: Mohammad Taher Pilehvar
 
 message: Register to our Google <a href="https://groups.google.com/forum/#!forum/ai972">groups page</a> to get course notifications via email.
-baseurl: "/ai972" # the subpath of your site, e.g. /blog/
+baseurl: "/ai981" # the subpath of your site, e.g. /blog/
 url: "http://iust-courses.github.io/" # the base hostname & protocol for your site
 githubdir: "iust-courses/github.iust-courses.io"
 
