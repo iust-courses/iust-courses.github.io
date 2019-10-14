@@ -1,10 +1,10 @@
 ---
 type: assignment
-date: 2019-02-26T4:00:00+4:30
+date: 2019-10-13T4:00:00+4:30
 title: 'Assignment #1 - Search problems'
 pdf: /static_files/assignments/Assignment1.pdf
 attachment: /static_files/assignments/assignment01.zip
-due: 2019-03-06T23:59:00+3:30
+due: 2019-10-29T23:59:00+3:30
 ---
 In this assignment we will familiarize you with basic concepts of search problems.
 
@@ -17,7 +17,7 @@ Follow the pdf document for the rest of the assignment.
 
 # Submission
 After you're ready to submit your work, Please follow these steps:
-1. Make sure your current directory is assignment folder. run the following command (put your Student ID in \<student_id>. e.x: 95529876)
+1. Make sure your current directory is assignment folder. run the following command (put your Student ID in \<student_id>. e.x: 96529876)
 ```
 python make_submission.py <student_id>
 ```
