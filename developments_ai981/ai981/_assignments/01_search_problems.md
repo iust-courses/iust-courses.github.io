@@ -4,7 +4,7 @@ date: 2019-10-13T4:00:00+4:30
 title: 'Assignment #1 - Search problems'
 pdf: /static_files/assignments/Assignment1.pdf
 attachment: /static_files/assignments/assignment01.zip
-due: 2019-10-29T23:59:00+3:30
+due: 2019-10-22T23:59:00+3:30
 ---
 In this assignment we will familiarize you with basic concepts of search problems.
 
