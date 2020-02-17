@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iran University of Science and Technology</title>
+    <description>Instructor: Mohammad Taher Pilehvar
+</description>
+    <link>http://iust-courses.github.io//ai982/</link>
+    <atom:link href="http://iust-courses.github.io//ai982/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 17 Feb 2020 22:27:26 +0330</pubDate>
+    <lastBuildDate>Mon, 17 Feb 2020 22:27:26 +0330</lastBuildDate>
+    <generator>Jekyll v2.5.0</generator>
+    
+  </channel>
+</rss>
