@@ -42,6 +42,12 @@ You can download the lectures here (in PDF format). I will try to upload lecture
             {% else %}
               {{ lecture.notes | prepend: site.baseurl }} 
             {% endif %}">notes</a>]
+            [<a title="Download videos (mp4)" href="
+            {% if lecture.videos contains '://' %}
+              {{ lecture.videos }} 
+            {% else %}
+              {{ lecture.videos | prepend: site.baseurl }} 
+            {% endif %}">videos</a>]
             {% endif %}
         </strong>
     </div>
