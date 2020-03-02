@@ -6,7 +6,6 @@ permalink: /lectures/
 
 You can download the lectures here (in PDF format). I will try to upload lectures prior to their corresponding classes.
 
-
 <ul id="archive">
 {% for lecture in site.lectures %}
 <li class="archiveposturl" style="background: transparent">
@@ -31,26 +30,24 @@ You can download the lectures here (in PDF format). I will try to upload lecture
         <strong style="font-size:100%; font-family: 'Titillium Web', sans-serif;">
             [<a title="Download slides (pdf)" href="
             {% if lecture.slides contains '://' %}
-              {{ lecture.slides }} 
+              {{ lecture.slides }}
             {% else %}
-              {{ lecture.slides | prepend: site.baseurl }} 
+              {{ lecture.slides | prepend: site.baseurl }}
             {% endif %}">slides</a>]
             {% if lecture.notes %}
             [<a title="Download notes (zip)" href="
             {% if lecture.notes contains '://' %}
-              {{ lecture.notes }} 
+              {{ lecture.notes }}
             {% else %}
-              {{ lecture.notes | prepend: site.baseurl }} 
+              {{ lecture.notes | prepend: site.baseurl }}
             {% endif %}">notes</a>]
-            [<a title="Download videos (mp4)" href="
-            {% if lecture.videos contains '://' %}
-              {{ lecture.videos }} 
-            {% else %}
-              {{ lecture.videos | prepend: site.baseurl }} 
-            {% endif %}">videos</a>]
+            {% if  lecture.videos contains '://' %}
+            [<a title="Download videos (mp4)" href="{{ lecture.videos }}">videos</a>]
+            {% endif %}
             {% endif %}
         </strong>
     </div>
+
 </div>
 </li>
 {% endfor %}
