@@ -4,7 +4,7 @@ date: 2020-03-21T4:00:00+4:30
 title: 'Assignment #1 - Search problems'
 pdf: /static_files/assignments/Assignment1.pdf
 attachment: /static_files/assignments/assignment01.zip
-due: 2020-04-07T23:59:00+3:30
+due: 2020-04-05T23:59:00+4:30
 ---
 In this assignment we will familiarize you with basic concepts of search problems.
 
